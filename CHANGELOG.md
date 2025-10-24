@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Oct 24 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Created using Colab ([@ciprian-dev](https://github.com/ciprian-dev))
+
+#### Authors: 1
+
+- [@ciprian-dev](https://github.com/ciprian-dev)
+
+---
+
 # v0.0.1 (Sun Oct 05 2025)
 
 :tada: This release contains work from a new contributor! :tada:
